@@ -37,9 +37,9 @@ public class PostgresDB {
      */
     public PostgresDB() {
         driver = "org.postgresql.Driver";
-        url = "jdbc:postgresql://ec2-107-22-160-185.compute-1.amazonaws.com:5432/deck0jp8rljjoa";
-        user = "uxsvvqdujoyrti";
-        password = "2d989239c38338117217f11fbd0bfc7cca8d1a671c3f395a833e0eab7932050c";
+        url = "jdbc:postgres://irllxnufnkpwoh:fed0be0c6c2e1e1f1c5fa4253a70fe444e8a0fafbdbcd33d737ae82320ceba72@ec2-54-235-163-246.compute-1.amazonaws.com:5432/d7bt721ft6mc8e";
+        user = "irllxnufnkpwoh";
+        password = "fed0be0c6c2e1e1f1c5fa4253a70fe444e8a0fafbdbcd33d737ae82320ceba72";
 
     }
  
